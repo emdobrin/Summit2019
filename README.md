@@ -1,10 +1,6 @@
-> Integrating Experience Fragments with Adobe Target
->
-> L726
->
-> ­Adobe Marketing Summit 2018
+# Integrating Experience Fragments with Adobe Target (L726)
 ![](media/Experience_League.png)
-Table of Contents
+# Table of Contents
 =================
 
 [Lab Overview 3](#lab-overview)
