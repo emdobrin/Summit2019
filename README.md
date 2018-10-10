@@ -1,72 +1,58 @@
 # Integrating Experience Fragments with Adobe Target (L726)
 ![](media/Experience_League.png)
 # Table of Contents
-[Lab Overview 3](#lab-overview)
+[Lab Overview](#lab-overview)
 
-[Scope 3](#scope)
+[Scope](#scope)
 
-[Business Problem 3](#business-problem)
+[Business Problem](#business-problem)
 
 [Lesson 1: AEM - Build Experience Fragments in AEM
 3](#lesson-1-aem---build-experience-fragments-in-aem)
 
-[Definition 4](#definition)
+[Definition](#definition)
 
-[Objectives 4](#objectives)
+[Objectives](#objectives)
 
-[Step 1: Go to the Experience Fragment menu
-4](#step-1-go-to-the-experience-fragment-menu)
+[Step 1: Go to the Experience Fragment menu](#step-1-go-to-the-experience-fragment-menu)
 
-[Step 2: Create a new Folder 5](#step-2-create-a-new-folder)
+[Step 2: Create a new Folder](#step-2-create-a-new-folder)
 
-[Step 3: Examine and Add the Target cloud configuration
-6](#step-3-examine-and-add-the-target-cloud-configuration)
+[Step 3: Examine and Add the Target cloud configuration](#step-3-examine-and-add-the-target-cloud-configuration)
 
-[Step 4: Create Experience Fragments
-9](#step-4-create-experience-fragments)
+[Step 4: Create Experience Fragments](#step-4-create-experience-fragments)
 
-[Step 4: Author the Experience Fragment
-11](#step-4-author-the-experience-fragment)
+[Step 4: Author the Experience Fragment](#step-4-author-the-experience-fragment)
 
-[Optional exercise---create Previews:
-15](#optional-exercisecreate-previews)
+[Optional exercise---create Previews](#optional-exercisecreate-previews)
 
-[Step 4: Share the Experience Fragments
-16](#step-4-share-the-experience-fragments)
+[Step 4: Share the Experience Fragments](#step-4-share-the-experience-fragments)
 
-[Lesson 2: Target -- Create an Auto-target activity using XFs
-17](#lesson-2-target-create-an-auto-target-activity-using-xfs)
+[Lesson 2: Target -- Create an Auto-target activity using XFs](#lesson-2-target-create-an-auto-target-activity-using-xfs)
 
-[Objectives 17](#objectives-1)
+[Objectives](#objectives-1)
 
-[Step 1: Log into the Experience Cloud
-17](#step-1-log-into-the-experience-cloud)
+[Step 1: Log into the Experience Cloud](#step-1-log-into-the-experience-cloud)
 
-[Step 2: Confirm your XFs have arrived in Target
-18](#step-2-confirm-your-xfs-have-arrived-in-target)
+[Step 2: Confirm your XFs have arrived in Target](#step-2-confirm-your-xfs-have-arrived-in-target)
 
-[Step 3: Build an Auto-Target Activity using your XFs
-19](#step-3-build-an-auto-target-activity-using-your-xfs)
+[Step 3: Build an Auto-Target Activity using your XFs](#step-3-build-an-auto-target-activity-using-your-xfs)
 
-[Step 4: Validate your activity 27](#step-4-validate-your-activity)
+[Step 4: Validate your activity](#step-4-validate-your-activity)
 
 [Lesson 3: AEM - Build a more advanced Experience Fragment with building
-blocks and components
-28](#lesson-3-aem---build-a-more-advanced-experience-fragment-with-building-blocks-and-components)
+blocks and components](#lesson-3-aem---build-a-more-advanced-experience-fragment-with-building-blocks-and-components)
 
-[Scenario 28](#scenario)
+[Scenario](#scenario)
 
-[Objectives 28](#objectives-2)
+[Objectives](#objectives-2)
 
 [Step 1: Create a Building Block in our Experience Fragment master
-variation
-28](#step-1-create-a-building-block-in-our-experience-fragment-master-variation)
+variation](#step-1-create-a-building-block-in-our-experience-fragment-master-variation)
 
-[Step 2: Use the Building Block in our variations
-30](#step-2-use-the-building-block-in-our-variations)
+[Step 2: Use the Building Block in our variations](#step-2-use-the-building-block-in-our-variations)
 
-[Exercise 4 (Optional): Convert existing Page content into XFs
-33](#exercise-4-optional-convert-existing-page-content-into-xfs)
+[Exercise 4 (Optional): Convert existing Page content into XFs](#exercise-4-optional-convert-existing-page-content-into-xfs)
 
 Lab Overview 
 =============
