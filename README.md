@@ -472,7 +472,7 @@ practices.
 7.  Reload the page where you have entered the activity (http://
     <http://localhost:4503/content/we-retail/us/en.html?labuser=YOURNUMBER>)
 
-Exercise 4 (Optional): Convert existing Page content into XFs
+Lesson 4 (Optional): Convert existing Page content into XFs
 =============================================================
 
 You don't even have to start from scratch to create Experience
